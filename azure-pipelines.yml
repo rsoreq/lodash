@@ -12,4 +12,4 @@ steps:
 
 - task: WhiteSource@20
   inputs:
-    projectName: 'AZDO_new_repo'
+    projectName: 'AZDO_lodash'
