@@ -56,7 +56,7 @@
     "request": "^2.79.0",
     "requirejs": "^2.3.2",
     "sauce-tunnel": "^2.5.0",
-    "uglify-js": "3.12.4",
+    "uglify-js": "3.12.6",
     "webpack": "^5.0.0"
   },
   "greenkeeper": {
